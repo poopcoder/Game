@@ -1,0 +1,6 @@
+{
+    "intent": {
+        "input1": "output1",
+        "input2": ["outputr1", "outputr2", "etc"]
+    }
+}
