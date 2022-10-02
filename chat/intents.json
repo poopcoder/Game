@@ -1,12 +1,10 @@
 {
-    "hello": {
-        "hello": "Hello There!",
-        "hey": "Hey!",
-        "hey there": "Hey!"
-    },
-    "bye": {
-        "bye": "Bye!",
-        "seee uuu 2morerow": ""
-    },
+
+    "hello": "Hello There!",
+    "hey": "Hey!",
+    "hey there": "Hey!",
+    "bye": "Bye!",
+    "seee uuu 2morerow": ""
+
     
 }
